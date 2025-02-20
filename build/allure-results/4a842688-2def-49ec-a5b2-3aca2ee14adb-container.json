@@ -1,0 +1,1 @@
+{"uuid":"4a842688-2def-49ec-a5b2-3aca2ee14adb","name":"Авторизация администратора","children":["a6021054-2776-4c8d-9fef-d04dbde97c38"],"befores":[{"name":"initTestUser","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1740070239121,"stop":1740070239121}],"afters":[],"start":1740070239118,"stop":1740070239216}

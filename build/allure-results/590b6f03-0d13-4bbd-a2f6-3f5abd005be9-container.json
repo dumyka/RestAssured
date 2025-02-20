@@ -1,0 +1,1 @@
+{"uuid":"590b6f03-0d13-4bbd-a2f6-3f5abd005be9","name":"Попытка удалить администратора","children":["8e64c766-7c99-4001-928b-b4aac670d2bf"],"befores":[{"name":"initTestUser","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1740070238934,"stop":1740070238934}],"afters":[],"start":1740070238932,"stop":1740070239115}

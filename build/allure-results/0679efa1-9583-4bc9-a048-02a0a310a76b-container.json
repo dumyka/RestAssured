@@ -1,0 +1,1 @@
+{"uuid":"0679efa1-9583-4bc9-a048-02a0a310a76b","name":"Получение информации о пользователе с недействительным JWT","children":["2b076726-5694-4e94-b3ba-b3e8508c169a"],"befores":[{"name":"initTestUser","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1740070240001,"stop":1740070240001}],"afters":[],"start":1740070239999,"stop":1740070240054}

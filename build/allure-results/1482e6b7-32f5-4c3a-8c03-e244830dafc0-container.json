@@ -1,0 +1,1 @@
+{"uuid":"1482e6b7-32f5-4c3a-8c03-e244830dafc0","name":"Регистрация пользователя без пароля","children":["dc4364e3-3740-4fed-89d8-833f7bb6b7db"],"befores":[{"name":"initTestUser","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1740070235493,"stop":1740070235554}],"afters":[],"start":1740070235455,"stop":1740070238820}

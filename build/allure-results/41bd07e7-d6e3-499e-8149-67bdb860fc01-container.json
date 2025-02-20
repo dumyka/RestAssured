@@ -1,0 +1,1 @@
+{"uuid":"41bd07e7-d6e3-499e-8149-67bdb860fc01","name":"Получение информации о пользователе","children":["b49b0fb8-54c4-4491-89b9-ab665a34ffcd"],"befores":[{"name":"initTestUser","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1740070240821,"stop":1740070240821}],"afters":[],"start":1740070240819,"stop":1740070240980}

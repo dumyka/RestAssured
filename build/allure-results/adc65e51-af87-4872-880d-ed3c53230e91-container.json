@@ -1,0 +1,1 @@
+{"uuid":"adc65e51-af87-4872-880d-ed3c53230e91","name":"Удаление нового пользователя","children":["3ebd01f4-84b8-4df2-b314-63b7fdc2d567"],"befores":[{"name":"initTestUser","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1740070239342,"stop":1740070239342}],"afters":[],"start":1740070239340,"stop":1740070239424}

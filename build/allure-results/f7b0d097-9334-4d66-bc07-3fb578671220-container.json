@@ -1,0 +1,1 @@
+{"uuid":"f7b0d097-9334-4d66-bc07-3fb578671220","name":"Получение информации о пользователе без токена","children":["1deb5550-dff0-485e-aa9e-3c1578c1ea58"],"befores":[{"name":"initTestUser","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1740070240059,"stop":1740070240059}],"afters":[],"start":1740070240056,"stop":1740070240111}

@@ -1,0 +1,1 @@
+{"uuid":"cc7184e5-f6ed-4b0f-a483-6c22b705c6e9","name":"Регистрация нового пользователя","children":["145d2bea-b4ae-4752-8b26-dd688c394d52"],"befores":[{"name":"initTestUser","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1740070239221,"stop":1740070239221}],"afters":[],"start":1740070239218,"stop":1740070239339}

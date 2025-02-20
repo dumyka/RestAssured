@@ -1,0 +1,1 @@
+{"uuid":"a5d6e5f4-0c23-4ab4-9329-885f2ac56021","name":"UserNewTests","children":["2afaf60e-7e89-4c75-8cb9-8da6515e68f2"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1735210625395,"stop":1735210625903}],"afters":[],"start":1735210625346,"stop":1735210628579}
