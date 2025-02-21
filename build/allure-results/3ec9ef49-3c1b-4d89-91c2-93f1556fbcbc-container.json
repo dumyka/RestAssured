@@ -1,1 +1,0 @@
-{"uuid":"3ec9ef49-3c1b-4d89-91c2-93f1556fbcbc","name":"Авторизация с неверными учетными данными","children":["f0f5fce9-3c0b-4d5f-a99b-9a62d3c96942"],"befores":[{"name":"initTestUser","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1740070238835,"stop":1740070238836}],"afters":[],"start":1740070238833,"stop":1740070238931}

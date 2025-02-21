@@ -1,1 +1,0 @@
-{"uuid":"5748f359-9006-4c12-aa2a-1f1564e83206","name":"positiveAdminAuthTest(FullUser)","children":["de6eab85-e57b-409c-bdc9-1bba64097448"],"befores":[{"name":"initTestUser","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1735300258207,"stop":1735300258253}],"afters":[],"start":1735300258167,"stop":1735300261317}

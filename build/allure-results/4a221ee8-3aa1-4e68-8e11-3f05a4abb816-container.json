@@ -1,1 +1,0 @@
-{"uuid":"4a221ee8-3aa1-4e68-8e11-3f05a4abb816","name":"Регистрация пользователя с существующим логином","children":["c2c48386-f12c-4067-bc36-50a3c3fd00b7"],"befores":[{"name":"initTestUser","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1740070239845,"stop":1740070239845}],"afters":[],"start":1740070239842,"stop":1740070239999}

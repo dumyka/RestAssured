@@ -1,1 +1,0 @@
-{"uuid":"41f723ed-6eca-4f23-9e98-aa5c6fb600f9","name":"negativeRegisterNoPasswordTest()","children":["4cdad1b1-5cee-4ff7-a5e6-48fb20a8eace"],"befores":[{"name":"initTestUser","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1735298747454,"stop":1735298747508}],"afters":[],"start":1735298747396,"stop":1735298750543}

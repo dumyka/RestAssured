@@ -1,1 +1,0 @@
-{"uuid":"803c1763-cd3c-4401-8380-563a213b5194","name":"Получение списка всех пользователей","children":["c90c1f8b-3c33-4764-bdbf-1ab1d179b0a7"],"befores":[{"name":"initTestUser","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1740070239428,"stop":1740070239428}],"afters":[],"start":1740070239426,"stop":1740070239511}

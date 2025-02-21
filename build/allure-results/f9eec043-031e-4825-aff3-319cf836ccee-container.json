@@ -1,1 +1,0 @@
-{"uuid":"f9eec043-031e-4825-aff3-319cf836ccee","name":"Регистрация нового пользователя с играми","children":["e79eab6f-73a8-4537-bcad-20e62ce5d18e"],"befores":[{"name":"initTestUser","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1740070240532,"stop":1740070240533}],"afters":[],"start":1740070240531,"stop":1740070240817}
